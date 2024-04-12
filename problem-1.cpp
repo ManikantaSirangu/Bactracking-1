@@ -1,4 +1,4 @@
-// 200. Number of Islands
+// 39. Combination Sum
 // Time Complexity : O(2^n)
 // Space Complexity :O(n)
 // Did this code successfully run on Leetcode : yes
